@@ -24,5 +24,10 @@ namespace ChatStudents_Klimov.Pages
         {
             InitializeComponent();
         }
+
+        private void Send(object sender, KeyEventArgs e)
+        {
+
+        }
     }
 }
